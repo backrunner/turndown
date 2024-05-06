@@ -2,7 +2,10 @@
 
 Convert HTML into Markdown with JavaScript.
 
+*This is a fork version for Cloudflare worker.*
+
 ## Project Updates
+
 * `to-markdown` has been renamed to Turndown. See the [migration guide](https://github.com/domchristie/to-markdown/wiki/Migrating-from-to-markdown-to-Turndown) for details.
 * Turndown repository has changed its URL to https://github.com/mixmark-io/turndown.
 
@@ -10,7 +13,7 @@ Convert HTML into Markdown with JavaScript.
 
 npm:
 
-```
+```bash
 npm install turndown
 ```
 
